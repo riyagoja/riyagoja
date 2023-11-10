@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Riya Goja</h1>
-<h3 align="center">4th Year Computer Engineer @ UCI | Embracing Art & Innovation 🚀🎨</h3>
+<h1 align="center">Hello! 👋 I'm Riya Goja</h1>
+<h3 align="center">4th Year Computer Engineer @ UC Irvine</h3>
 
 - 🔭 I’m currently working on [an Inverter for a Linear Induction Motor](https://www.hyperxite.com/pod-viii)
 
 - 🌱 I’m currently learning **Intro to Machine Learning and AI**
 
 - 📫 How to reach me **riyagoja7@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
