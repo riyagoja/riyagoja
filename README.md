@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋 I'm Riya Goja</h1>
-<h3 align="center">4th Year Computer Engineer @ UC Irvine</h3>
+<h3 align="center">Computer Engineering Graduate '24 @ UC Irvine</h3>
 
-- 🔭 I’m currently working on [an Inverter for a Linear Induction Motor](https://www.hyperxite.com/pod-viii)
+- 🔭 Senior Design Project - [Three-Phase Variable Frequency Drive for a Hyperloop Pod Prototype](https://www.hyperxite.com/pod-viii)
 
-- 🌱 I’m currently learning **Intro to Machine Learning and AI**
+- 🌱 I’m currently learning [Prompt Engineering with Llama 2&3](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
 
 - 📫 How to reach me **riyagoja7@gmail.com**
 
