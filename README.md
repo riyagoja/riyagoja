@@ -1,9 +1,11 @@
-<h1 align="center">Hello! 👋 I'm Riya Goja</h1>
-<h3 align="center">Computer Engineering Graduate '24 @ UC Irvine</h3>
+<h2 align="center">Hi There! 👋 I'm Riya Goja</h2>
+<h4 align="center">Computer Engineering Graduate '24 @ UC Irvine</h4>
 
 - 🔭 Senior Design Project - [Three-Phase Variable Frequency Drive for a Hyperloop Pod Prototype](https://www.hyperxite.com/pod-viii)
 
 - 🌱 I’m currently learning [Prompt Engineering with Llama 2&3](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
+
+- 🤖 Visit my [ROS 2 Blog for Beginners](https://riyagoja.medium.com/from-zero-to-robotics-hero-a-beginners-guide-to-ros-2-90ac9c3b87ba)! 
 
 - 📫 How to reach me **riyagoja7@gmail.com**
 
