@@ -1,5 +1,7 @@
 <h2 align="center">Hi There! 👋 I'm Riya Goja</h2>
 <h4 align="center">Computer Engineering Graduate '24 @ UC Irvine</h4>
+<h4 align="center">Computer Science Graduate Student - Specialization in Computational Perception and Robotics '28 @ Georgia Tech </h4>
+
 
 - 🔭 Senior Design Project - [Three-Phase Variable Frequency Drive for a Hyperloop Pod Prototype](https://www.hyperxite.com/pod-viii)
 
